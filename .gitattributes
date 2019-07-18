@@ -1,0 +1,17 @@
+* text=auto !eol
+#
+# EOL
+
+*.bat text eol=crlf
+*.cmd text eol=crlf
+*.sh text eol=lf
+*.txt text eol=lf
+*.md text eol=lf
+*.html text eol=lf
+*.css text eol=lf
+*.js text eol=lf
+
+# Binary
+
+*.jpg -text
+*.png -text
