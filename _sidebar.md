@@ -1,0 +1,4 @@
+- [Welcome Page](README.md)
+- [What is a seedbox?](what_is_a_seedbox.md)
+- [Automation](automation/README.md)
+- [Glossary of Terms](glossary_of_terms.md)

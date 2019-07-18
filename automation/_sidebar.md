@@ -1,0 +1,1 @@
+- [Sonarr](automation/sonarr.md)
