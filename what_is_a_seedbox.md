@@ -1,6 +1,10 @@
-# What is a seedbox?
+# What is a Seedbox?
 
-In a nutshell, a seedbox is a remote hosted server environment, commonly based on a Linux. This remote server is primarily configured to provide an end user (you) access to the required tools that are needed to enable the management of torrent files and their associated data. A seedbox acts as a mediator between trackers and peers in a networking environment much better suited to this workload than is often found at the end of a residential internet connection. 
+Classically a seedbox was the term given to any device that was dedicated to the task of seeding torrent files as effectively and consitently as possible. The main reason to do this was in order achieve an upload ratio in excess of the download ratio for those torrents. Most seedboxes were pretty basic setups doing a pretty basic task and were not always remotely hosted. Each setup tended to be unique to the user and the barrier to entry required a firm grasp of linux admistration and financial investment. The remote hosted versions tended to have access to high capaicty resources that made them very effective at this task compared to home hosted versions but were not an afforable option to most users.
+
+OVH and their European datacenters became the defacto home for many of these seedbox setups and many providers grew out of sharing and reselling their servers to cover the costs of running their seedboxes at OVH. This where the idea of racing and automation started to gather real momentum and various tools, setups and platforms took form to demystify the concept.
+
+Nowadays, when talking about a Seedbox we are typically referring to a remotely hosted server in a European datacentre, running Ubuntu or Debian Linux. It will be configured to provide an end user (you) access to the required tools needed to enable the management of data aquired via torrents, usenet and hosting services in a networking environment much better suited to this workload than is often found at the end of a residential internet connection.
 
 How exactly this is done and how the end user can interact with and manage their data varies dramatically from one solution to another.
 
@@ -26,7 +30,6 @@ Managed | Unmanaged
 ---|---
 A managed seedbox is one where another person or service manage part or all of the service you experience. This will primarily cover areas such as maintenance, security, abuse, other users and core services provided. Usually these environments offer limited customization potential but will often have a wiki or knowledge base to support customization. A managed service with good support is always the best place to start out for a beginner who does not fully understand how this all works. | An unmanaged service is one where you generally have a lot more freedom to customize the environment, such as root access, but have all the responsibility of managing it. So things like program updates, server up time, security, user management, application installation and configuration tweaking become the end user's responsibility. For an advanced user this can provide for specific needs but often comes at an increased costs and it's often more time consuming to manage, all things considered. 
 
-
 ## The Tortoise or the Hare?
 
 There are two main differences in seedbox implementations to consider, especially if you are looking for a reasonable monthly cost of let's say, up to $30. Though in theory it is possible to have the best of both if there is no budget requirement.
@@ -34,8 +37,6 @@ There are two main differences in seedbox implementations to consider, especiall
 Performance based | Storage based | Factors to consider
 ---|---|---
  You will have access to powerful server hardware with moderate storage options, even less with SSD drives. So you have the potential to perform any task you might want to achieve but limited options in terms of storage over a longer period. Great for short term or storage light needs.| This will usually have a large storage volume via a mechanical hard drive solution. Very good for holding onto data for long periods of time. The compromise of this option is usually the raw power available of the seedbox is not suited to resource intensive operations like racing or trans-coding. |Seedbox or hosting providers may have payment options, privacy policies, abuse policies and terms and conditions you may wish to explore before signing up. For example, not all services allow public trackers. 
-
-
 
 ## Do I need root?
 
