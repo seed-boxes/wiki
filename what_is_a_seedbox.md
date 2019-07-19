@@ -1,12 +1,14 @@
 # What is a Seedbox?
 
-Conceptually, a seedbox was the term given to a device that was dedicated to the task of seeding torrent files as effectively and consistently as possible to maintain an upload ratio in excess of the download ratio for those torrents. Since the majority of users were working with residential connections the idea of a Seedbox was often representative of a users commitment to their communities. It performed the basic requirements with a little customised automation here and there. Each setup tended to be unique to the user and the barrier to entry usually required a firm grasp of Linux administration and financial investment. The remote hosted servers tended to have access to high capacity resources that made them very effective at this task compared to home hobbyist versions. The main difference was in the time it took to achieve the desired result with remote servers in desirable locations outperforming the home setup. The problem was that were not affordable options to most users at this time and so they focused on long term seeding after the faster uploaders had moved on.
+Conceptually, a seedbox was the term given to a device that was dedicated to the task of seeding torrent files as effectively and consistently as possible to maintain an upload ratio in excess of the download ratio for those torrents. Since the majority of users were working with residential connections the idea of a Seedbox was often representative of a users commitment to their communities. It performed the basic requirements with a little customised automation here and there. Each setup tended to be unique to the user and the barrier to entry usually required a firm grasp of Linux administration and financial investment. The remote hosted servers tended to have access to high capacity resources that made them very effective at this task compared to home hobbyist versions. The main difference was in the time it took to achieve the desired result with remote servers in desirable locations outperforming the home setup. The problem was that were not any affordable options available to most users at this time and so they focused on long term seeding after the faster uploaders had moved on, getting the best out of what they had available.
 
-OVH and their European datacentres became the popular home for many of these seedbox setups and many providers grew out of sharing and reselling their servers to cover the costs of running their own seedboxes. In this more competitive environment some great ideas like racing and automation started to gather real momentum and various tools, setups and platforms took form to demystify the concept into what we have today.
+OVH and their European datacentres soon became the popular home for many of these seedbox setups and many providers grew out of sharing and reselling their servers to cover the costs of running their own Seedboxes. In this more competitive environment some great ideas like racing and automation started to gather real momentum and various tools, setups and platforms took form to demystify the concept into what we have today.
 
 Nowadays, when talking about a Seedbox we are typically referring to a remotely hosted server in a strategically located datacentre, running Ubuntu or Debian Linux. It will be configured to provide an end user (you) access to the required tools needed to enable the management of data acquired via torrents, Usenet and hosting services in a networking environment much better suited to this workload than is often found at the end of a residential internet connection.
 
 How exactly this is done and how the end user can interact with and manage their data varies dramatically from one solution to another. There is no one way to do things when it comes to a seedbox setup but there is now a lot of affordable options to consider and paths to take as you progress.
+
+So it is harder to define what a seedbox is as a it can be many things to many people. Finding the right setup or provider for your needs will hopefully be something this Wiki will support you in doing by proving a fair and impartial view of the current landscape.
 
 ## Why use a seedbox?
 
@@ -23,9 +25,7 @@ Whether you want to:
 * A $5 dollar solution
 * A dedicated server
 
-Seedboxes have evolved to provide a platform for you to develop that need and there is a lot of great providers and information out there to help you do it where other hosting solutions fall short.
-
-So it is harder to define what a seedbox is as a it can be many things to many people. Finding the right setup or provider for your needs will hopefully be something this Wiki will support you in doing by proving a fair and impartial view of the current landscape.
+Seedboxes have evolved to provide a platform for you to develop that need and there is a lot of great providers and information out there to help you do it.
 
 ## Seedbox features
 
