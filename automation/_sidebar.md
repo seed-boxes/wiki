@@ -1,1 +1,2 @@
+- [Main Menu](/)
 - [Sonarr](automation/sonarr.md)
