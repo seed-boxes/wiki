@@ -1,26 +1,24 @@
 # What is a Seedbox?
 
-Classically a seedbox was the term given to any device that was dedicated to the task of seeding torrent files as effectively and consitently as possible. The main reason to do this was in order achieve an upload ratio in excess of the download ratio for those torrents. Most seedboxes were pretty basic setups doing a pretty basic task and were not always remotely hosted. Each setup tended to be unique to the user and the barrier to entry required a firm grasp of linux admistration and financial investment. The remote hosted versions tended to have access to high capacity resources that made them very effective at this task compared to home hosted versions but were not an afforable option to most users.
+Classically a seedbox was the term given to a device that was dedicated to the task of seeding torrent files as effectively and consistently as possible. The primary reason to do this was to maintain an upload ratio in excess of the download ratio for those torrents. Most seedboxes were pretty basic setups doing a pretty basic task and were not always remotely hosted. Each setup tended to be unique to the user and the barrier to entry usually required a firm grasp of Linux administration and financial investment. The remote hosted servers tended to have access to high capacity resources that made them very effective at this task compared to home hobbyist versions. The problem was that were not an affordable option to most users at this time and so they focused on long term seeding after the faster uploaders had moved on.
 
-OVH and their European datacenters became the defacto home for many of these seedbox setups and many providers grew out of sharing and reselling their servers to cover the costs of running their seedboxes at OVH. This where the idea of racing and automation started to gather real momentum and various tools, setups and platforms took form to demystify the concept.
+OVH and their European datacentres became the popular home for many of these seedbox setups and many providers grew out of sharing and reselling their servers to cover the costs of running their seedboxes at OVH. This where the idea of racing and automation started to gather real momentum and various tools, setups and platforms took form to demystify the concept into what we have today.
 
-![](docs/images/introduction/ovh-network-global.jpg)
+Nowadays, when talking about a Seedbox we are typically referring to a remotely hosted server in a strategically located datacentre, running Ubuntu or Debian Linux. It will be configured to provide an end user (you) access to the required tools needed to enable the management of data acquired via torrents, usenet and hosting services in a networking environment much better suited to this workload than is often found at the end of a residential internet connection.
 
-Nowadays, when talking about a Seedbox we are typically referring to a remotely hosted server in a European datacentre, running Ubuntu or Debian Linux. It will be configured to provide an end user (you) access to the required tools needed to enable the management of data aquired via torrents, usenet and hosting services in a networking environment much better suited to this workload than is often found at the end of a residential internet connection.
+How exactly this is done and how the end user can interact with and manage their data varies dramatically from one solution to another. There is no one way to do things when it comes to a seedbox setup.
 
-How exactly this is done and how the end user can interact with and manage their data varies dramatically from one solution to another.
-
-In its basic form it can simply enable you to:
+In its basic form it can simply enable:
 
 * Downloading and managing torrent files from public or private trackers.
 * Transferring that data from the remote host to a local location for consumption.
 * Access to cheaper but limited solutions. Perhaps in terms of hardware or the sharing of resources.
-* Expect generic forms of support.
+* Generic forms of support.
 
 In it's advanced form it can also include:
 
 * Powerful hardware for a single individual or entire hard drives with no shared users.
-* Premium bandwidth and data center options.
+* Premium bandwidth and data centre options.
 * The automation of sourcing and managing of the data.
 * The running of remote applications to extend functionality beyond the fundamental requirements.
 
