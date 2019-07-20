@@ -5,9 +5,11 @@ ___
 
 Deluge is a BitTorrent client that utilizes a daemon/client model. It has various user interfaces available such as the GTK-UI, Web-UI and a Console-UI. It uses libtorrent at it's core to handle the BitTorrent protocol.
 
-## [rtorrent](https://github.com/rakshasa/rtorrent) / [rutorrent](https://github.com/Novik/ruTorrent)
+## [rtorrent](https://github.com/rakshasa/rtorrent)
 
 Popular bittorrent client for linux
+
+## [rutorrent](https://github.com/Novik/ruTorrent)
 
 "ruTorrent" is a front-end for the popular Bittorrent client rtorrent.
 
@@ -127,6 +129,10 @@ Nextcloud is a suite of client-server software for creating and using file hosti
 
 ownCloud is a suite of client–server software for creating and using file hosting services. ownCloud functionally has similarities to the widely used Dropbox. The primary functional difference between ownCloud and Dropbox is that ownCloud does not offer data centre capacity to host stored files. 
 
-## [Docker](https://www.docker.com/) / [Hub](https://hub.docker.com/)
+## [Docker](https://www.docker.com/)
 
 Docker is a set of coupled software-as-a-service and platform-as-a-service products that use operating-system-level virtualization to develop and deliver software in packages called containers. The software that hosts the containers is called Docker Engine.
+
+## [Hub](https://hub.docker.com/)
+
+Docker has a central repository for downloads called the hub.
