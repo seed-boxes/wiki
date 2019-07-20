@@ -2,13 +2,13 @@
 
 Nowadays, when talking about a Seedbox we are typically referring to a remotely hosted server in a strategically located datacentre, preferably running Ubuntu or Debian Linux. It will have been configured to provide an end user (you) access to the required tools needed to enable the management of data acquired via torrents, Usenet and hosting services in a networking environment much better suited to this workload than is often found at the end of a residential internet connection.
 
-How exactly this is done and how the end user can interact with and manage their data varies dramatically from one solution to another. There is no one way to do things when it comes to a seedbox setup but there is now a lot of tools, information and affordable options to consider. There are many paths to take towards having a seedbox and the more you try the better your understanding will be.
+How exactly this is done and how the end user can interact with and manage their data varies dramatically from one solution to another. There is no one way to do things when it comes to a seedbox setup but there are  a lot of tools, information and affordable options to consider. There are many paths to take when choosing a seedbox and the more you try the better your understanding will be.
 
 This makes is harder to define what a seedbox is as a it can be many things to many people. Finding the right setup or provider for your needs will hopefully be something this Wiki will support you in doing by providing a fair and impartial view of the current landscape.
 
 ## Why use a seedbox?
 
-A seedbox can be a Swiss army knife or a finely edged blade. Thanks to the hard work of many great providers, communities and application developers the landscape has changed and it is now as simple as signing up to a service and away you go.
+A seedbox can be a Swiss army knife or a finely edged blade. Thanks to the hard work of many great people, communities, application developers and providers. The landscape has changed and it is now as simple as signing up to a service and away you go.
 
 Whether you want to:
 
@@ -65,6 +65,4 @@ If you have to ask then you probably don't. A managed service can often provide 
 
 The short answer is; you get what you pay for. Backups require double or triple the disk space and extra resources at large, therefore this increases costs. In order to stay competitive and cost effective automated backups have never really been part of the seedbox landscape. Seedboxes tend to focus on performance and prioritize certain needs over others. It just comes with the territory.
 
-"If your data is important to you, then you should make it a priority to back it up. Otherwise you should expect to pay more for a service with this as part of their feature set." - Some guy in irc
-
-## [Glossary of Terms](https://www.reddit.com/r/seedboxes/wiki/glossary)
+> If your data is important to you, then you should make it a priority to back it up. Otherwise you should expect to pay more for a service with this as part of their feature set." 
