@@ -65,4 +65,4 @@ If you have to ask then you probably don't. A managed service can often provide 
 
 The short answer is; you get what you pay for. Backups require double or triple the disk space and extra resources at large, therefore this increases costs. In order to stay competitive and cost effective automated backups have never really been part of the seedbox landscape. Seedboxes tend to focus on performance and prioritize certain needs over others. It just comes with the territory.
 
-> If your data is important to you, then you should make it a priority to back it up. Otherwise you should expect to pay more for a service with this as part of their feature set." 
+> If your data is important to you, then you should make it a priority to back it up. Otherwise you should expect to pay more for a service with this as part of their feature set  - Some guy in irc
