@@ -3,3 +3,4 @@
 - [Where do i start?](where.do.i.start.md)
 - [Recommendation Form](recommendation.md)
 - [Glossary of Terms](glossary_of_terms.md)
+- [Automation](automation/README.md)
